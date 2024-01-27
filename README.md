@@ -39,9 +39,6 @@ Exploring bijective functions and their significance.
 ## Cardinalities
 Discussion on different cardinalities and their comparisons.
 
-## Midterm
-Materials related to the midterm examination.
-
 ## Integers
 Properties and operations involving integers.
 
