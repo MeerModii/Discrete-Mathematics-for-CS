@@ -12,10 +12,10 @@ public class Tester {
 
 	}
 
-	/**
-	 * Computes the values of the quotient and remainder for all integer n and
-	 * positive integer d
-	 **/
+	// /**
+	//  * Computes the values of the quotient and remainder for all integer n and
+	//  * positive integer d
+	//  **/
 	public static void quotientReminder(int n, int d) {
 		qrResult res;
 		if (n >= 0) {
